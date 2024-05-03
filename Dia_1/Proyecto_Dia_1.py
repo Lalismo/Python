@@ -1,8 +1,4 @@
 '''
-Llegó el momento más esperado de tu primer día de estudio.
-Vas a crear tu primer programa solo y lo vas a hacer aplicando
-todo lo que has aprendido a lo largo de esta jornada. 
-
 Imagina esta situación: tu mejor amigo ha puesto una fábrica de cerveza y tiene todo listo.
 Su producto es fantástico, tiene cuerpo, buen sabor, buen color, el nivel justo de espuma…
 pero le falta una identidad. No se le ocurre qué nombre ponerle su cerveza para que
